@@ -1,0 +1,4 @@
+public/css/*.css
+public/*.html
+public/js/app*.js
+public/js/libs.min.js

@@ -1,0 +1,44 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Luke Karrys
+  Site: lukekarrys.com
+  Twitter: @lukekarrys
+  Location: AZ
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery, Backbone, Underscore
+  Software: TextMate, iTerm2, SCSS, HAML, CoffeeScript
+  Boilerplates:
+    http://html5boilerplate.com/
+    http://twitter.github.com/bootstrap/
+    http://github.com/lukekarrys/ruby-guard-boilerplate
+
+
+
+                               -o/-
+                               +oo//-
+                              :ooo+//:
+                             -ooooo///-
+                             /oooooo//:
+                            :ooooooo+//-
+                           -+oooooooo///-
+           -://////////////+oooooooooo++////////////::
+            :+ooooooooooooooooooooooooooooooooooooo+:::-
+              -/+ooooooooooooooooooooooooooooooo+/::////:-
+                -:+oooooooooooooooooooooooooooo/::///////:-
+                  --/+ooooooooooooooooooooo+::://////:-
+                     -:+ooooooooooooooooo+:://////:--
+                       /ooooooooooooooooo+//////:-
+                      -ooooooooooooooooooo////-
+                      /ooooooooo+oooooooooo//:
+                     :ooooooo+/::/+oooooooo+//-
+                    -oooooo/::///////+oooooo///-
+                    /ooo+::://////:---:/+oooo//:
+                   -o+/::///////:-      -:/+o+//-
+                   :-:///////:-            -:/://
+                     -////:-                 --//:
+                       --                       -:
