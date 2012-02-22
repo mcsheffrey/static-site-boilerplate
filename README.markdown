@@ -4,15 +4,18 @@ This is a collection of technologies that I find useful for developing projects 
 
 ## To Get Started
 
-1. [RVM](http://beginrescueend.com/rvm/install/)
+1. [Install RVM](http://beginrescueend.com/rvm/install/)
 2. `rvm install ruby-1.9.2-p290`
-3. `git clone this repo`
+3. `git clone https://github.com/lukekarrys/static-site-boilerplate`
 4. `gem install bundler`
-5. `cd this-repo`
-6. wait, wait, wait
-6a. While waiting install [LiveReload for Chrome](https://chrome.google.com/webstore/detail/jnihajbhpnppcggbcgedagnkighmdlei)
+5. `cd static-site-boilerplate`
+6. Wait for gems to install
 7. `bundle exec guard`
 
-You now have a webpage based on the HTML5 Boilerplate, using HAML, SCSS and CoffeeScript. Much of the things that I don't foresee using from the H5BP have been removed. Also the H5BP CSS has been replaced with the Compass Twitter Bootstrap.
+You now have a webpage based on the HTML5 Boilerplate, using HAML, SCSS and CoffeeScript. Much of the things that I don't foresee using from the H5BP have been removed. Also the H5BP CSS has been replaced with the Compass Twitter Bootstrap (although the H5BP gem is installed for an easy transition).
 
 The generated files have been ignored from the repo.
+
+## Previewing Changes
+
+Since this is a static site, I find it easiest to preview my changes using [Pow](http://pow.cx/). Add on [LiveReload for Chrome](https://chrome.google.com/webstore/detail/jnihajbhpnppcggbcgedagnkighmdlei) for the ultimate in manual refresh-less updates.
