@@ -4,7 +4,7 @@ group :development do
   gem 'rake'
   gem 'guard'
   gem 'coffee-script'
-  gem 'rb-fsevent', :git => 'git://github.com/ttilley/rb-fsevent.git', :branch => 'pre-compiled-gem-one-off'
+  gem 'rb-fsevent', '0.9.1'
   gem 'rb-inotify'
   gem 'compass', '~>0.12.alpha'
   gem 'compass_twitter_bootstrap', '0.1.7'
